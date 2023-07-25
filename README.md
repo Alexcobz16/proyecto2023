@@ -69,20 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Requirements
-
-#########################################################################################################
+### Requirements
 
 1. Node JS.
 2. Pokedex API (included in project).
 3. XAMPP v3.3.0^
 4. Pokedex database (included in project).
 
-#########################################################################################################
-
-How to deploy on development environment
-
-#########################################################################################################
+### How to deploy on development environment
 
 1. Install all the required dependencies:
 npm install
